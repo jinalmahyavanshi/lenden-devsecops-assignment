@@ -199,3 +199,7 @@ The demonstration video includes:
 This project demonstrates how **DevSecOps practices can integrate security checks into the CI/CD pipeline**, ensuring that infrastructure vulnerabilities are detected and fixed early in the development lifecycle.
 
 By combining **Terraform, Docker, Trivy, and Jenkins**, the project provides a simple yet effective implementation of a secure DevSecOps workflow.
+
+
+Video Link
+https://drive.google.com/file/d/1gArwLmE4zcSUeQT3-va1X1WQAEQm7gWj/view?usp=sharing
