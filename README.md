@@ -2,6 +2,12 @@
 
 ## Project Overview
 
+# LenDen DevSecOps Assignment
+
+This project demonstrates a secure DevSecOps pipeline using Jenkins, Terraform, Docker, and Trivy.  
+The pipeline automates code checkout, infrastructure security scanning, Terraform validation, and application containerization.
+
+The goal of this assignment is to identify infrastructure security vulnerabilities and remediate them using security best practices.
 This project demonstrates a **DevSecOps pipeline** that integrates security scanning, infrastructure validation, and CI/CD automation. The goal is to identify and remediate infrastructure security vulnerabilities and automate the build and deployment process using Jenkins.
 
 The pipeline performs the following tasks:
@@ -14,7 +20,16 @@ The pipeline performs the following tasks:
 This project showcases how **security can be integrated early into the CI/CD pipeline**, following DevSecOps principles.
 
 ---
+## Tools Used
 
+- Jenkins – CI/CD pipeline automation
+- Docker – Containerization
+- Terraform – Infrastructure as Code
+- Trivy – Security vulnerability scanning
+- GitHub – Source code repository
+- Python Flask – Demo web application
+
+---
 # Architecture
 
 GitHub Repository → Jenkins Pipeline → Security Scan (Trivy) → Terraform Validation → Docker Build
